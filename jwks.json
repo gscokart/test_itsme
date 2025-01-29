@@ -16,7 +16,7 @@
     {
       "kid": "xwKZ-EiqE2Pnxi0sASpa862XJmtLmiLWxXXZwsUjwyI",
       "kty": "RSA",
-      "alg": "RS256",
+      "alg": "RSA-OAEP",
       "use": "enc",
       "n": "j81VVG2eNasGOVeBSzvVTIfkR2-p2GspbXho5QsrhK4ArP8oELq5gXT619pJY8B-tNkqb8aSfkKBD6qWcdZ-hQW_yeVpRZ1gIk_RK54IUfWRA8f_g7LWPwbcAiF4rxNwsegiTHgyYM0xbtdNWc4IyI71y7nH-8EXrqzfwV4AOdr_pXOVqTZUQ11Qx7vk8eexZ69d2rMJ347KfE2ikIyUr1YzNN-prRwjpzi-FUUTdWVeb4M0YFyWAUTLnGvma16Zq7dK1leBmhHKAihrgqqnz2xfax7dnZMAayPzrMo2gpDqN27uA05W6TRnQvGqfR0rDv2qJ2ZRhCMeJVaamv5Csw",
       "e": "AQAB",
